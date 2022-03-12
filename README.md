@@ -7,7 +7,17 @@
 ![Reddit](https://img.shields.io/reddit/user-karma/combined/9thcoder?style=social)
 ![Github](https://img.shields.io/github/followers/diliphiremath?style=social)
 
+## Welcome to my profile :) &nbsp; ![profile view](https://komarev.com/ghpvc/?username=diliphiremath&style=flat)
+
 I'm full-stack software engineer. I love programming, playing computer games and travelling.
+
+<img align="left" alt="GIF" src="https://github.com/diliphiremath/diliphiremath/blob/main/coder.gif?raw=true" width="408" height="318" />
+</br>
+</br>
+</br>
+</br>
+</br>
+
 
 **More about me:**
 - 👨🏻‍💻 I’m currently working on  building my [portfolio website](https://www.diliph.dev/).
@@ -21,7 +31,7 @@ I'm full-stack software engineer. I love programming, playing computer games and
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=diliphiremath&show_icons=true&theme=dark" />
+  <img height="180em" style="margin=2em" src="https://github-readme-stats.vercel.app/api?username=diliphiremath&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diliphiremath"/>
 </p>
 
@@ -29,3 +39,4 @@ I'm full-stack software engineer. I love programming, playing computer games and
 <p>
   <img height="100em" src="https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/40321502"/>
 </p>
+
